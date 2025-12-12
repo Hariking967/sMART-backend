@@ -1,0 +1,2 @@
+Sri Hari -> Beacon + QR
+Pranav -> rest of the backend
